@@ -1,5 +1,21 @@
+# Virtual env
 .venv/
+venv/
+
+# Python cache
 __pycache__/
-*.pyc
-urls.db
+*.py[cod]
+*$py.class
+
+# Streamlit
+.streamlit/
+
+# OS / Editor
 .DS_Store
+Thumbs.db
+.vscode/
+
+# Local DB / exports
+*.db
+observed_export.csv
+blocked_export.csv
