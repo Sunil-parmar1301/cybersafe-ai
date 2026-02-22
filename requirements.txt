@@ -2,3 +2,5 @@ streamlit
 pandas
 tldextract
 scikit-learn
+reportlab
+plotly
